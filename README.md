@@ -1,4 +1,14 @@
-# Introduction-to-Computer---Hw8
+# Introduction-to-Computer-Hw8
+
+## How to install MySQL
+
+Download the installer in https://dev.mysql.com/downloads/
+
+- For macOS users, download MySQL Server and MySQL Workbench (GUI) separately.
+- For Windows users, you can download the installer and execute it.
+
+<img src="images/downloads-1.png" style="zoom:50%;" />
+<img src="images/downloads-2.png" style="zoom:50%;" />
 
 ## How to build the database
 
