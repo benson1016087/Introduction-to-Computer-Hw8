@@ -105,6 +105,8 @@ You have to submit **2 files**, `result.pdf` and `<Your_student_ID>.txt`:
   1. [Screenshot of the result of Query 1]
 
   2. [Screenshot of the result of Query 2]
+  
+  ...
   ```
 
   If your screenshot is found the same as another student, **both of you will get 0 points**.
