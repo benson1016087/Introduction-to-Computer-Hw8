@@ -111,6 +111,7 @@ You have to submit **2 files**, `result.pdf` and `<Your_student_ID>.txt`:
 
   If your screenshot is found the same as another student, **both of you will get 0 points**.
   You could prevent this by adding some words in the next command:
+  
   <img src="images/screenshot.png" width=500>
 
   Please **NOT** screenshot the whole windows, since it's hard for TAs to check the output result.
