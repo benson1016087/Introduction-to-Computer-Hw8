@@ -1,4 +1,4 @@
-# Introduction-to-Computer---Hw8
+# Introduction-to-Computer-Hw8
 
 ## How to build the database
 
@@ -83,9 +83,38 @@ You are asked to write SQL queries that answer the questions below (one query pe
 
 ## Submission
 
-You have to submit 2 files, `result.pdf` and `<Your_student_ID>.txt`:
+You have to submit **2 files**, `result.pdf` and `<Your_student_ID>.txt`:
 
 - `result.pdf`:
-  - Contain all 5 **screenshots**
-  -
-- `<Your_student_ID>.txt`:
+  The report should contain 5 **screenshots** of the results:
+
+  ```
+  SQL Homework
+  StudentID & name
+
+  1. [Screenshot of the result of Query 1]
+
+  2. [Screenshot of the result of Query 2]
+  ```
+
+  If your screenshot is found the same as another student, **both of you will get 0 points**.
+  You could prevent this by adding some words in the next command:
+	<img src="images/screenshot.png" width=500>
+	
+	Please **NOT** screenshot the whole windows, since it's hard for TAs to check the output result. 
+- `<Your_student_ID>.txt`: a pure text file with 15 lines of your SQL queries
+
+  For example:
+
+  ```
+  1. SELECT DISTINCT T.Character_Name FROM TimeTable AS T WHERE T.Planet_Name = "Endor" AND T.Movie = 3;
+  2. ...
+  ```
+
+## Grading
+
++ 20 points for each query (100%)
++ For this assignment, **creation of temporary tables is not allowed**, i.e., for each question, you have to write exactly one SQL statement.
++ If your screenshot is hard to be identified (e.g. extreme low resolution, too small text, etc), we'll deduct some points
++ **If your screenshot is found the same as another student, both of you will get 0 points.**
++ Any invalid format (e.g., .rar/.7z ..., missing report, missing screenshots) of the submission will result in 0 points.
