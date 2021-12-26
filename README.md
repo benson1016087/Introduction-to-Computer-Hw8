@@ -7,8 +7,8 @@ Download the installer in https://dev.mysql.com/downloads/
 - For macOS users, download MySQL Server and MySQL Workbench (GUI) separately.
 - For Windows users, you can download the installer and execute it.
 
-<img src="images/downloads-1.png" style="zoom:50%;" />
-<img src="images/downloads-2.png" style="zoom:50%;" />
+<img src="images/downloads-1.png" />
+<img src="images/downloads-2.png" />
 
 ## How to build the database
 
@@ -116,7 +116,7 @@ You have to submit **2 files**, `result.pdf` and `<Your_student_ID>.txt`:
 
   Please **NOT** screenshot the whole windows, since it's hard for TAs to check the output result.
 
-- `<Your_student_ID>.txt`: a pure text file with 15 lines of your SQL queries
+- `<Your_student_ID>.txt`: a pure text file with 5 lines of your SQL queries
 
   For example:
 
@@ -131,4 +131,4 @@ You have to submit **2 files**, `result.pdf` and `<Your_student_ID>.txt`:
 - For this assignment, **creation of temporary tables is not allowed**, i.e., for each question, you have to write exactly one SQL statement.
 - If your screenshot is hard to be identified (e.g. extreme low resolution, too small text, etc), we'll deduct some points
 - **If your screenshot is found the same as another student, both of you will get 0 points.**
-- Any invalid format (e.g., .rar/.7z ..., missing report, missing screenshots) of the submission will result in 0 points.
+- Any invalid format (e.g., .zip/.rar/.7z ..., missing report, missing screenshots) of the submission will result in 0 points.
